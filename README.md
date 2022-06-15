@@ -1,3 +1,3 @@
 # Used-Car
 
-This is the repo for Inchcape used car poject.
+This is the repo for Inchcape used car project.
